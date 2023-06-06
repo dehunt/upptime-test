@@ -5,12 +5,12 @@ sites:
     url: $PDFREST/pdf
     method: POST
     headers:
-      - "Content-Type: image/jpeg"
+      - "Content-Type: multipart/form-data"
       - "Accept: application/json"
       - "Api-Key: $API_KEY"
       - "wsn: $WSN"
       - "wsuip: WSUIP"
-    data: '{ "url": "$TEST_JPG_FILE" }'
+    body: '{ "url": "$TEST_JPG_FILE" }'
   - name: pdfRest
     url: https://pdfrest.com/
   - name: Google
