@@ -4,6 +4,12 @@ sites:
   - name: PDF
     url: $pdfrest/pdf
     method: POST
+    headers:
+      - "Content-Type: multipart/form-data"
+      - "Api-Key: $API_KEY"
+      - "wsn: $WSN"
+      - "wsuip: WSUIP"
+    body: '{"url": "$TEST_PDF_URL" }'
   - name: pdfRest
     url: https://pdfrest.com/
   - name: Google
