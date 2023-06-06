@@ -9,7 +9,7 @@ sites:
       - "Api-Key: $API_KEY"
       - "wsn: $WSN"
       - "wsuip: WSUIP"
-    body: '{"url": "$TEST_PDF_URL" }'
+    body: '{"url": "$TEST_JPG_FILE" }'
   - name: pdfRest
     url: https://pdfrest.com/
   - name: Google
