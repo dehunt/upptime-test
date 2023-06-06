@@ -2,7 +2,7 @@ owner: dehunt
 repo: upptime-test
 sites:
   - name: PDF
-    url: $pdfrest/pdf
+    url: $PDFREST/pdf
     method: POST
     headers:
       - "Content-Type: multipart/form-data"
