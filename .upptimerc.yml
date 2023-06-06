@@ -1,6 +1,9 @@
 owner: dehunt
 repo: upptime-test
 sites:
+  - name: PDF
+    url: $pdfrest/pdf
+    method: POST
   - name: pdfRest
     url: https://pdfrest.com/
   - name: Google
