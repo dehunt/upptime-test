@@ -2,7 +2,7 @@ owner: dehunt
 repo: upptime-test
 sites:
   - name: PDF
-    url: $PDFREST/pdf
+    url: /pdf
     method: POST
     headers:
       - "Api-Key: $API_KEY"
