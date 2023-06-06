@@ -1,5 +1,25 @@
 [
   {
+    "name": "PDF",
+    "url": "$pdfrest/pdf",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "pdf",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
+  },
+  {
     "name": "pdfRest",
     "url": "https://pdfrest.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pdfrest.com.ico",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 98,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 212,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 418,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "time": 410,
+    "timeDay": 410,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   },
   {
