@@ -5,8 +5,6 @@ sites:
     url: $PDFREST/pdf
     method: POST
     headers:
-      - "Content-Type: multipart/form-data"
-      - "Accept: application/json"
       - "Api-Key: $API_KEY"
       - "wsn: $WSN"
       - "wsuip: WSUIP"
