@@ -7,7 +7,7 @@ sites:
     headers:
       - "Api-Key: $API_KEY"
       - "wsn: $WSN"
-      - "wsuip: WSUIP"
+      - "wsuip: $WSUIP"
     body: '{ "url": "$TEST_JPG_FILE" }'
   - name: pdfRest
     url: https://pdfrest.com/
