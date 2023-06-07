@@ -2,13 +2,13 @@ owner: dehunt
 repo: upptime-test
 sites:
   - name: PDF
-    url: /pdf
+    url: $PDFREST/pdf
     method: POST
     headers:
       - "Api-Key: $API_KEY"
-      - "wsn: $WSN"
+      - "wsn: deh"
       - "wsuip: $WSUIP"
-    body: '{ "url": "$TEST_JPG_FILE" }'
+    body: '{ "file": "test-files/ducky.jpg" }'
   - name: pdfRest
     url: https://pdfrest.com/
   - name: Google
