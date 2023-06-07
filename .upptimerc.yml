@@ -10,10 +10,13 @@ sites:
       - "wsuip: $WSUIP"
     body: '{ "file": "https://github.com/dehunt/upptime-test/blob/43f675368a40b5870e60698107d76e7791d7ed3c/test-files/ducky.jpg" }'
     verbose: true
+    showAverageResponseTime: false
   - name: pdfRest
     url: https://pdfrest.com/
+    showAverageResponseTime: false
   - name: Google
     url: https://www.google.com
+    showAverageResponseTime: false
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
