@@ -3,13 +3,10 @@ repo: upptime-test
 sites:
   - name: /pdfa
     url: https://status.pdfrest.com/pdfa
-    showAverageResponseTime: false
   - name: pdfRest
     url: https://api.pdfrest.com/up
-    showAverageResponseTime: false
   - name: Google
     url: https://www.google.com
-    showAverageResponseTime: false
   - name: Wikipedia
     url: https://en.wikipedia.org
 assignees:
