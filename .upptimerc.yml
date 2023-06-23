@@ -1,8 +1,8 @@
 owner: dehunt
 repo: upptime-test
 sites:
-  - name: /PDFA
-    url: status.pdfrest.com/pdfa
+  - name: /pdfa
+    url: https://status.pdfrest.com/pdfa
     showAverageResponseTime: false
   - name: pdfRest
     url: https://api.pdfrest.com/up
@@ -12,8 +12,6 @@ sites:
     showAverageResponseTime: false
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
 assignees:
   - dehunt
 status-website:
