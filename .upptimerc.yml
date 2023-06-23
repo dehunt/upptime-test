@@ -1,18 +1,11 @@
 owner: dehunt
 repo: upptime-test
 sites:
-  - name: PDF
-    url: /pdf
-    method: POST
-    headers:
-      - "Api-Key: $API_KEY"
-      - "wsn: deh"
-      - "wsuip: $WSUIP"
-    body: '{ "file": "https://github.com/dehunt/upptime-test/blob/43f675368a40b5870e60698107d76e7791d7ed3c/test-files/ducky.jpg" }'
-    verbose: true
+  - name: /PDFA
+    url: status.pdfrest.com/pdfa
     showAverageResponseTime: false
   - name: pdfRest
-    url: https://pdfrest.com/
+    url: https://api.pdfrest.com/up
     showAverageResponseTime: false
   - name: Google
     url: https://www.google.com
@@ -21,8 +14,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 assignees:
   - dehunt
 status-website:
