@@ -1,22 +1,22 @@
 [
   {
-    "name": "/PDFA",
-    "url": "status.pdfrest.com/pdfa",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "name": "/pdfa",
+    "url": "https://status.pdfrest.com/pdfa",
+    "icon": "https://icons.duckduckgo.com/ip3/status.pdfrest.com.ico",
     "slug": "pdfa",
-    "status": "down",
-    "uptime": "17.18%",
-    "uptimeDay": "17.18%",
-    "uptimeWeek": "17.18%",
-    "uptimeMonth": "17.18%",
-    "uptimeYear": "17.18%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 5377,
+    "timeDay": 5377,
+    "timeWeek": 5377,
+    "timeMonth": 5377,
+    "timeYear": 5377,
     "dailyMinutesDown": {
-      "2023-06-23": 0
+      "2023-06-23": 18
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 187,
-    "timeWeek": 247,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "time": 241,
+    "timeDay": 235,
+    "timeWeek": 251,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 70,
-    "timeWeek": 110,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 147,
+    "timeDay": 79,
+    "timeWeek": 108,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -66,35 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 161,
-    "timeWeek": 234,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "time": 246,
+    "timeDay": 155,
+    "timeWeek": 223,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "32.88%",
-    "uptimeMonth": "84.55%",
-    "uptimeYear": "98.71%",
-    "time": 345,
-    "timeDay": 417,
-    "timeWeek": 272,
-    "timeMonth": 345,
-    "timeYear": 345,
-    "dailyMinutesDown": {
-      "2023-06-23": 1285,
-      "2023-06-22": 1440,
-      "2023-06-21": 1440,
-      "2023-06-20": 1440,
-      "2023-06-19": 1161
-    }
   }
 ]
