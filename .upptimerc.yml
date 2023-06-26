@@ -43,6 +43,8 @@ sites:
     url: https://status.pdfrest.com/tif
   - name: /unrestricted-pdf
     url: https://status.pdfrest.com/unrestricted-pdf
+  - name: /upload
+    url: https://status.pdfrest.com/upload
   - name: /watermarked-pdf
     url: https://status.pdfrest.com/watermarked-pdf
   - name: /zip
