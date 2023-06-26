@@ -19,10 +19,20 @@ sites:
     url: https://status.pdfrest.com/gif
   - name: /jpg
     url: https://status.pdfrest.com/jpg
+  - name: /linearized-pdf
+    url: https://status.pdfrest.com/linearized-pdf
+  - name: /merged-pdf
+    url: https://status.pdfrest.com/merged-pdf
   - name: /pdf
     url: https://status.pdfrest.com/pdf
+  - name: /pdf-info
+    url: https://status.pdfrest.com/pdf-info
+  - name: /pdf-with-added-image
+    url: https://status.pdfrest.com/pdf-with-added-image
   - name: /pdfa
     url: https://status.pdfrest.com/pdfa
+  - name: /pdfx
+    url: https://status.pdfrest.com/pdfx
   - name: /png
     url: https://status.pdfrest.com/png
   - name: /tif
