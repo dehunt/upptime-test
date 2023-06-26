@@ -1,14 +1,12 @@
 owner: dehunt
 repo: upptime-test
 sites:
-  - name: /pdfa
-    url: https://status.pdfrest.com/pdfa
   - name: pdfRest
     url: https://api.pdfrest.com/up
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: /compressed-pdf
+    url: https://status.pdfrest.com/pdfa
+  - name: /pdfa
+    url: https://status.pdfrest.com/pdfa
 assignees:
   - dehunt
 status-website:
