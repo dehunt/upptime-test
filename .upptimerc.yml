@@ -15,6 +15,8 @@ sites:
     url: https://status.pdfrest.com/flattened-annotations-pdf
   - name: /flattened-layers-pdf
     url: https://status.pdfrest.com/flattened-layers-pdf
+  - name: /flattened-transparencies-pdf
+    url: https://status.pdfrest.com/flattened-transparencies-pdf
   - name: /gif
     url: https://status.pdfrest.com/gif
   - name: /jpg
