@@ -4,7 +4,11 @@ sites:
   - name: pdfRest
     url: https://api.pdfrest.com/up
   - name: /compressed-pdf
-    url: https://status.pdfrest.com/pdfa
+    url: https://status.pdfrest.com/compressed-pdf
+  - name: /decrypted-pdf
+    url: https://status.pdfrest.com/decrypted-pdf
+  - name: /pdf
+    url: https://status.pdfrest.com/pdf
   - name: /pdfa
     url: https://status.pdfrest.com/pdfa
 assignees:
