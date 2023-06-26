@@ -2,7 +2,7 @@ owner: dehunt
 repo: upptime-test
 sites:
   - name: pdfRest
-    url: https://api.pdfrest.com/up
+    url: https://status.pdfrest.com/up
   - name: /bmp
     url: https://status.pdfrest.com/bmp
   - name: /compressed-pdf
@@ -35,8 +35,18 @@ sites:
     url: https://status.pdfrest.com/pdfx
   - name: /png
     url: https://status.pdfrest.com/png
+  - name: /restricted-pdf
+    url: https://status.pdfrest.com/restricted-pdf
+  - name: /split-pdf
+    url: https://status.pdfrest.com/split-pdf
   - name: /tif
     url: https://status.pdfrest.com/tif
+  - name: /unrestricted-pdf
+    url: https://status.pdfrest.com/unrestricted-pdf
+  - name: /watermarked-pdf
+    url: https://status.pdfrest.com/watermarked-pdf
+  - name: /zip
+    url: https://status.pdfrest.com/zip
 assignees:
   - dehunt
 status-website:
