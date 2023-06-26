@@ -15,10 +15,18 @@ sites:
     url: https://status.pdfrest.com/flattened-annotations-pdf
   - name: /flattened-layers-pdf
     url: https://status.pdfrest.com/flattened-layers-pdf
+  - name: /gif
+    url: https://status.pdfrest.com/gif
+  - name: /jpg
+    url: https://status.pdfrest.com/jpg
   - name: /pdf
     url: https://status.pdfrest.com/pdf
   - name: /pdfa
     url: https://status.pdfrest.com/pdfa
+  - name: /png
+    url: https://status.pdfrest.com/png
+  - name: /tif
+    url: https://status.pdfrest.com/tif
 assignees:
   - dehunt
 status-website:
