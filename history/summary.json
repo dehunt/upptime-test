@@ -6,7 +6,7 @@
     "slug": "pdf-rest",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.14%",
+    "uptimeDay": "99.13%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -16,7 +16,7 @@
     "timeMonth": 215,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-06-26": 12
+      "2023-06-26": 13
     }
   },
   {
@@ -205,11 +205,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pdfrest.com.ico",
     "slug": "pdf",
     "status": "up",
-    "uptime": "76.11%",
+    "uptime": "76.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.11%",
-    "uptimeYear": "76.11%",
+    "uptimeMonth": "76.14%",
+    "uptimeYear": "76.14%",
     "time": 2443,
     "timeDay": 4721,
     "timeWeek": 4721,
