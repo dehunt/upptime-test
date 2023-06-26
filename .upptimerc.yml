@@ -3,10 +3,18 @@ repo: upptime-test
 sites:
   - name: pdfRest
     url: https://api.pdfrest.com/up
+  - name: /bmp
+    url: https://status.pdfrest.com/bmp
   - name: /compressed-pdf
     url: https://status.pdfrest.com/compressed-pdf
   - name: /decrypted-pdf
     url: https://status.pdfrest.com/decrypted-pdf
+  - name: /encrypted-pdf
+    url: https://status.pdfrest.com/encrypted-pdf
+  - name: /flattened-annotations-pdf
+    url: https://status.pdfrest.com/flattened-annotations-pdf
+  - name: /flattened-layers-pdf
+    url: https://status.pdfrest.com/flattened-layers-pdf
   - name: /pdf
     url: https://status.pdfrest.com/pdf
   - name: /pdfa
