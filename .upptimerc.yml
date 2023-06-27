@@ -59,14 +59,13 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime-test
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Test Status Page
+  introTitle: "**Test** open-source uptime monitor and status page."
+  introMessage: Status page reporting endpoints
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Test Link
+      href: https://google.com
+  status-website:
+    themeUrl: /upptime-test/theme.css
