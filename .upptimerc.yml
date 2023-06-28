@@ -67,4 +67,4 @@ status-website:
       href: /
     - title: Test Link
       href: https://google.com
-  themeUrl: $THEME
+  themeUrl: https://raw.githubusercontent.com/dehunt/upptime-test/master/assets/theme.css
