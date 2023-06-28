@@ -67,5 +67,4 @@ status-website:
       href: /
     - title: Test Link
       href: https://google.com
-  theme: ocean
-  # themeUrl: /assets/theme.css
+  themeUrl: $THEME
