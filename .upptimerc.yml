@@ -3,54 +3,79 @@ repo: upptime-test
 sites:
   - name: pdfRest
     url: https://status.pdfrest.com/up
+    showAverageResponseTime: false
   - name: /bmp
     url: https://status.pdfrest.com/bmp
+    showAverageResponseTime: false
   - name: /compressed-pdf
     url: https://status.pdfrest.com/compressed-pdf
+    showAverageResponseTime: false
   - name: /decrypted-pdf
     url: https://status.pdfrest.com/decrypted-pdf
+    showAverageResponseTime: false
   - name: /encrypted-pdf
     url: https://status.pdfrest.com/encrypted-pdf
+    showAverageResponseTime: false
   - name: /flattened-annotations-pdf
     url: https://status.pdfrest.com/flattened-annotations-pdf
+    showAverageResponseTime: false
   - name: /flattened-layers-pdf
     url: https://status.pdfrest.com/flattened-layers-pdf
+    showAverageResponseTime: false
   - name: /flattened-transparencies-pdf
     url: https://status.pdfrest.com/flattened-transparencies-pdf
+    showAverageResponseTime: false
   - name: /gif
     url: https://status.pdfrest.com/gif
+    showAverageResponseTime: false
   - name: /jpg
     url: https://status.pdfrest.com/jpg
+    showAverageResponseTime: false
   - name: /linearized-pdf
     url: https://status.pdfrest.com/linearized-pdf
+    showAverageResponseTime: false
   - name: /merged-pdf
     url: https://status.pdfrest.com/merged-pdf
+    showAverageResponseTime: false
   - name: /pdf
     url: https://status.pdfrest.com/pdf
+    showAverageResponseTime: false
   - name: /pdf-info
     url: https://status.pdfrest.com/pdf-info
+    showAverageResponseTime: false
   - name: /pdf-with-added-image
     url: https://status.pdfrest.com/pdf-with-added-image
+    showAverageResponseTime: false
   - name: /pdfa
     url: https://status.pdfrest.com/pdfa
+    showAverageResponseTime: false
   - name: /pdfx
     url: https://status.pdfrest.com/pdfx
+    showAverageResponseTime: false
   - name: /png
     url: https://status.pdfrest.com/png
+    showAverageResponseTime: false
   - name: /restricted-pdf
     url: https://status.pdfrest.com/restricted-pdf
+    showAverageResponseTime: false
   - name: /split-pdf
     url: https://status.pdfrest.com/split-pdf
+    showAverageResponseTime: false
   - name: /tif
     url: https://status.pdfrest.com/tif
+    showAverageResponseTime: false
   - name: /unrestricted-pdf
     url: https://status.pdfrest.com/unrestricted-pdf
+    showAverageResponseTime: false
   - name: /upload
     url: https://status.pdfrest.com/upload
+    showAverageResponseTime: false
   - name: /watermarked-pdf
     url: https://status.pdfrest.com/watermarked-pdf
+    showAverageResponseTime: false
   - name: /zip
     url: https://status.pdfrest.com/zip
+    showAverageResponseTime: false
 assignees:
   - dehunt
 status-website:
@@ -65,4 +90,4 @@ status-website:
       href: /
     - title: Test Link
       href: https://google.com
-  themeUrl: https://cdn.statically.io/gh/dehunt/upptime-test/58e2b39/assets/theme.css
+  themeUrl: https://cdn.statically.io/gh/dehunt/upptime-test/f6f0da9/assets/theme.css
